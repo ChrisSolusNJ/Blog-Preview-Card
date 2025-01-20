@@ -106,33 +106,3 @@ img{
         font-size: 10px;
     }
 }
-
-/* Media query para dispositivos de escritorio (1440px) */
-@media (min-width: 1440px) {
-    .container {
-        width: 600px;
-        padding: 25px;
-        box-shadow: 10px 10px black;
-    }
-
-    .learning {
-        width: 80px;
-        font-size: 12px;
-    }
-
-    .title_foundations {
-        font-size: 24px;
-    }
-
-    .info {
-        font-size: 14px;
-    }
-
-    .user_avatar {
-        width: 5%;
-    }
-
-    .user {
-        font-size: 13px;
-    }
-}
