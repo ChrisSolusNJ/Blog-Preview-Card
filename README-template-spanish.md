@@ -41,7 +41,7 @@ Luego recorta/optimiza/edita tu imagen como quieras, agrégala a tu proyecto y a
 ### Enlaces
 
 - URL de la solución: [Agregar la URL de la solución aquí](https://your-solution-url.com)
-- URL del sitio en vivo: [Agregar la URL del sitio en vivo aquí](https://your-live-site-url.com)
+- URL del sitio en vivo: [Agregar la URL del sitio en vivo aquí](https://chrissolusnj.github.io/Blog-Preview-Card/)
 
 ## Mi proceso
 
